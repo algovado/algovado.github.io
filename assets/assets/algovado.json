@@ -208,5 +208,11 @@
         "asset_name": "ALGOVADO #35 LEGENDARY",
         "unit_name": "ALGVD35",
         "imageURL": "https://gateway.pinata.cloud/ipfs/QmZD9AFozxKhWTv52Tq7wBUs9xDsgRJVrLjghha6Ch3NjP"
+    },
+    {
+        "asset_id": 337562614,
+        "asset_name": "ALGOVADO #36 LEGENDARY",
+        "unit_name": "ALGVD36",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmP9gp4pHUm9kgmvNbc7aBA6zR6NCu9tgj4WwcXR3E5vnb"
     }
 ]
