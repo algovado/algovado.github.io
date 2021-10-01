@@ -232,5 +232,35 @@
         "asset_name": "ALGOVADO #39 LEGENDARY",
         "unit_name": "ALGVD39",
         "imageURL": "https://gateway.pinata.cloud/ipfs/Qmcos8AFynv7QoyNPc5GwLW2sHJwmMhELECxNr7qUPsaiP"
+    },
+    {
+        "asset_id": 351921795,
+        "asset_name": "ALGOVADO #40",
+        "unit_name": "ALGVD40",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmSxRXquXrke5vadKqVbYskyEZxJ2a96TU9Vac5ea3vzf8"
+    },
+    {
+        "asset_id": 351922745,
+        "asset_name": "ALGOVADO #41 RARE",
+        "unit_name": "ALGVD41",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmUgmBBX329wxaQzGKDKrFpxDitycLJ4HapVHe64i4UgnC"
+    },
+    {
+        "asset_id": 351923526,
+        "asset_name": "ALGOVADO #42 RARE",
+        "unit_name": "ALGVD42",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmUphCqwKgUPoheLMa5X7ZVT9bHQLJb5d6Yh9FqFPmFiff"
+    },
+    {
+        "asset_id": 351924414,
+        "asset_name": "ALGOVADO #43 LEGENDARY",
+        "unit_name": "ALGVD43",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmYAey2ibfwMnBopkhsgVJtaqbhLGfS9bGB3usF47fJyq5"
+    },
+    {
+        "asset_id": 351925057,
+        "asset_name": "ALGOVADO #44 LEGENDARY",
+        "unit_name": "ALGVD44",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmUH5dwdrGpZ6qX4Y6vNHER5q7LiZCepREmkbyjDXpTpRG"
     }
 ]
